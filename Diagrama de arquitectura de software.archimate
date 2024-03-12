@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Dream Lab" id="id-1bfba3b665404e85be43cf4093687f5a" version="5.0.0">
   <folder name="Strategy" id="id-28ef148191ce4e5ea0b2472fce3e8585" type="strategy"/>
-  <folder name="Business" id="id-fad5ea5175674a38ac3db80b9aff1e2b" type="business">
-    <element xsi:type="archimate:BusinessActor" name="Usuario" id="id-a0142e1a4e6340e6946f207592f6c6a3"/>
-  </folder>
+  <folder name="Business" id="id-fad5ea5175674a38ac3db80b9aff1e2b" type="business"/>
   <folder name="Application" id="id-2eb73eea4673475dbd7a95ae3d715045" type="application">
     <element xsi:type="archimate:DataObject" name="LogrosObtenidos" id="id-2ca62c59e1554f19810c237daa49aa18"/>
     <element xsi:type="archimate:DataObject" name="Logros" id="id-e673edab1a1e439295be56b4d07e7a18"/>
@@ -50,7 +48,6 @@
     <element xsi:type="archimate:CompositionRelationship" id="id-27b2a4dfa14340878e667f18f1e1285a" source="id-d2da992947504cb0b771d722c6012df0" target="id-7ed958f4c5a74c60b898f0d75f29d104"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-1c44b19eaba54fba9defb4a0fdcbd14b" source="id-d2da992947504cb0b771d722c6012df0" target="id-61d8b57bc8a34b1ca3aa6d36177eb85b"/>
     <element xsi:type="archimate:ServingRelationship" id="id-13cf24c8e1dc49c781588b7c0de97804" source="id-d2da992947504cb0b771d722c6012df0" target="id-8871557ce4b7445bb9088cabbfdfbe6c"/>
-    <element xsi:type="archimate:ServingRelationship" id="id-027ad8f2c2364e5eb50db67f2af228d9" source="id-53ff494201c34554a8d564f8fffa6b03" target="id-a0142e1a4e6340e6946f207592f6c6a3"/>
     <element xsi:type="archimate:ServingRelationship" id="id-21f3b1e7c58947fa8dcb838887d153da" source="id-be37b5b962494a329967e37f50ca2ab2" target="id-8871557ce4b7445bb9088cabbfdfbe6c"/>
   </folder>
   <folder name="Views" id="id-4179e53fdc04472d8b3247bbb15dbc5b" type="diagrams">
@@ -71,14 +68,10 @@
           <bounds x="192" y="24" width="120" height="55"/>
         </child>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-d37a57558b4d4ed9962efafe814f1374" targetConnections="id-f020323341084485a5b2e50f9dbfcc67" archimateElement="id-a0142e1a4e6340e6946f207592f6c6a3">
-        <bounds x="-72" y="216" width="120" height="55"/>
-      </child>
       <child xsi:type="archimate:Group" id="id-3ec3d1f5a6184a229dc6f0a996771864" name="Web Application" textAlignment="1">
         <bounds x="132" y="180" width="181" height="205"/>
         <child xsi:type="archimate:DiagramObject" id="id-baffcb1856894cab9eaf66e2b526dc65" targetConnections="id-985b4527ccab432680c43c43aea409ba" archimateElement="id-53ff494201c34554a8d564f8fffa6b03">
           <bounds x="36" y="36" width="120" height="55"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-f020323341084485a5b2e50f9dbfcc67" source="id-baffcb1856894cab9eaf66e2b526dc65" target="id-d37a57558b4d4ed9962efafe814f1374" archimateRelationship="id-027ad8f2c2364e5eb50db67f2af228d9"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d5e4a40e3edd487594c2b5e415153ec6" targetConnections="id-cf2514e8e6234687afeb7274052e5495 id-43e292122358498c92390dc23a14433b" archimateElement="id-8871557ce4b7445bb9088cabbfdfbe6c">
           <bounds x="36" y="138" width="120" height="55"/>
