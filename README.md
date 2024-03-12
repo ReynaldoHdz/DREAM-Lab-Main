@@ -18,5 +18,7 @@ A continuación se presenta una serie de enlaces para conocer más información 
 
 Asimismo, se incluyen dos **repositorios complementarios** que contienen todo el código del proyecto, esto dividido en frontend y backend respectivamente.
 
-1) **Frontend:** https://github.com/ReynaldoHdz/DREAM-Lab-Frontend.git <br>
-2) **Backend:** https://github.com/Jaimedev12/DREAM-Lab-Backend.git <br>
+| Frontend | Backend |
+|------------------- |-------------------|
+| Repositorio que contiene el código relacionado a las pantallas y aspectos visuales de la aplicación (colores, fondos, tipografías). | Repositorio que almacena el código relacionado a la funcionalidad y manejo de solicitudes de la aplicación. |
+| https://github.com/ReynaldoHdz/DREAM-Lab-Frontend.git | https://github.com/Jaimedev12/DREAM-Lab-Backend.git |
