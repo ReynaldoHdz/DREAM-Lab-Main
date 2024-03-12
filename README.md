@@ -9,10 +9,14 @@ Información adicional
 
 A continuación se presenta una serie de enlaces para conocer más información sobre este proyecto en aspectos como:
 
-1) **Procesos para contribuir al GitHub:** https://n9.cl/0b7xb <br>
-2) **Personas involucradas:** https://n9.cl/81ep74 <br>
-3) **Herramientas para la gestión del proyecto:** https://n9.cl/f0ycy8 <br>
-4) **Contexto adicional sobre el D.R.E.A.M. Lab:** https://n9.cl/ihj2q <br>
+| Sección | Descripción | Enlace |
+|-----------------------------------|-------------|--------|
+| Proceso para contribuir al GitHub | Conjunto de instrucciones y procedimientos que deben de seguir los desarrolladores para realizar aportaciones al repositorio en aspectos como commits, pull requests, reporte de errores y manejo de branches. | [Enlace](https://n9.cl/0b7xb) |
+
+
+3) **Personas involucradas:** https://n9.cl/81ep74 <br>
+4) **Herramientas para la gestión del proyecto:** https://n9.cl/f0ycy8 <br>
+5) **Contexto adicional sobre el D.R.E.A.M. Lab:** https://n9.cl/ihj2q <br>
 
 Asimismo, se incluyen dos **repositorios complementarios** que contienen todo el código del proyecto, esto dividido en frontend y backend respectivamente.
 
