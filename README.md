@@ -15,7 +15,7 @@ A continuación se presenta una serie de enlaces para conocer más información 
 | Personas involucradas | Listado de colaboradores del repositorio junto con sus respectivos roles y responsabilidades. | [Enlace](https://n9.cl/81ep74) |
 | Herramientas para la gestión del proyecto | Enlaces a los documentos y herramientas utilizadas por el equipo de trabajo para el desarrollo del proyecto. | [Enlace](https://n9.cl/f0ycy8) |
 | Contexto sobre el D.R.E.A.M. Lab | Descripción adicional sobre los espacios, locación y objetivos del D.R.E.A.M. Lab | [Enlace](https://n9.cl/ihj2q) |
-| Documento de diseño de sistema | Documentación detallada sobre todos los aspectos del diseño del sistema siguiendo el estandar IEEE 1016. | [Enlace](enlace aqui) |
+| Documento de diseño de sistema | Documentación detallada sobre todos los aspectos del diseño del sistema siguiendo el estandar IEEE 1016. | [Enlace](https://n9.cl/52a69) |
 
 Asimismo, se incluyen dos **repositorios complementarios** que contienen todo el código del proyecto, esto dividido en frontend y backend respectivamente.
 
